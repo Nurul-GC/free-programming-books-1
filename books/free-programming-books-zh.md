@@ -12,6 +12,7 @@
     * [函数式概念](#函数式概念)
     * [计算机图形学](#计算机图形学)
     * [其它](#其它)
+    * [人工智能](#人工智能)
     * [软件开发方法](#软件开发方法)
     * [设计模式](#设计模式)
     * [数据库](#数据库)
@@ -62,6 +63,7 @@
     * [PHP](#php)
         * [Laravel](#laravel)
         * [Symfony](#symfony)
+        * [Yii](#yii)
     * [PostgreSQL](#postgresql)
     * [Python](#python)
         * [Django](#django)
@@ -87,14 +89,12 @@
 
 * [沉浸式学 Git](https://web.archive.org/web/20191004044726/http://igit.linuxtoy.org:80/index.html) - Jim Weirich, `trl.:` 徐小东 a.k.a toy *(:card_file_box: archived)*
 * [猴子都能懂的GIT入门](http://backlogtool.com/git-guide/cn/) - Nulab Inc.
-* [学习 Git 分支](https://learngitbranching.js.org/?locale=zh_CN) - Peter Cottle
 * [Git - 简易指南](https://rogerdudler.github.io/git-guide/index.zh.html) - Roger Dudler, `trl.:` 罗杰·杜德勒 (HTML)
 * [Git 参考手册](http://gitref.justjavac.com) - CHEN Yangjian
 * [Git-Cheat-Sheet](https://github.com/flyhigher139/Git-Cheat-Sheet) - flyhigher139
-* [Git Community Book 中文版](http://gitbook.liuhui998.com) - Scott Chacon, `trl:` Liu Hui
 * [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html) - Daniel Kummer, et al.
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/) - Ben Lynn, `trl.:` 俊杰, 萌和江薇, et al. (HTML)
-* [Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) - 廖雪峰
+* [Git教程](https://www.liaoxuefeng.com/wiki/896043488029600) - 廖雪峰
 * [Github帮助文档](https://github.com/waylau/github-help) - Way Lau
 * [GitHub秘籍](https://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/) - snowdream86
 * [Got GitHub](https://github.com/gotgit/gotgithub) - Jiang Xin, The GotGit community
@@ -188,6 +188,11 @@
 * [Sketch 中文手册](http://sketchcn.com/sketch-chinese-user-manual.html#introduce)
 
 
+### 人工智能
+
+* [动手实战人工智能](https://aibydoing.com) - huhuhang
+
+
 ### 软件开发方法
 
 * [傻瓜函数编程](https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn) (《Functional Programming For The Rest of Us》中文版)
@@ -259,14 +264,11 @@
 
 ### Web
 
-* [3 Web Designs in 3 Weeks](https://www.gitbook.com/book/juntao/3-web-designs-in-3-weeks/details)
-* [关于浏览器和网络的 20 项须知](http://www.20thingsilearned.com/zh-CN/home)
 * [浏览器开发工具的秘密](http://jinlong.github.io/2013/08/29/devtoolsecrets/)
 * [前端代码规范 及 最佳实践](http://coderlmn.github.io/code-standards/)
 * [前端开发体系建设日记](https://github.com/fouber/blog/issues/2)
 * [前端资源分享（二）](https://github.com/hacke2/hacke2.github.io/issues/3)
 * [前端资源分享（一）](https://github.com/hacke2/hacke2.github.io/issues/1)
-* [一站式学习Wireshark](https://community.emc.com/thread/194901)
 * [移动前端开发收藏夹](https://github.com/hoosin/mobile-web-favorites)
 * [移动Web前端知识库](https://github.com/AlloyTeam/Mars)
 * [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm)
@@ -278,8 +280,6 @@
 * [Gulp 入门指南](https://github.com/nimojs/gulp-book)
 * [gulp中文文档](http://www.gulpjs.com.cn/docs/)
 * [HTTP 接口设计指北](https://github.com/bolasblack/http-api-guide)
-* [HTTP/2.0 中文翻译](http://yuedu.baidu.com/ebook/478d1a62376baf1ffc4fad99?pn=1)
-* [http2讲解](https://www.gitbook.com/book/ye11ow/http2-explained/details)
 * [JSON风格指南](https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md)
 * [Wireshark用户手册](https://web.archive.org/web/20200415002730/http://man.lupaworld.com/content/network/wireshark/index.html)
 
@@ -296,12 +296,9 @@
 ### Android
 
 * [Android Note(开发过程中积累的知识点)](https://github.com/CharonChui/AndroidNote)
-* [Android6.0新特性详解](http://leanote.com/blog/post/561658f938f41126b2000298)
 * [Android开发技术前线(android-tech-frontier)](https://github.com/bboyfeiyu/android-tech-frontier)
-* [Google Android官方培训课程中文版](http://hukai.me/android-training-course-in-chinese/index.html)
 * [Google Material Design 正體中文版](https://wcc723.gitbooks.io/google_design_translate/content/style-icons.html) - Tillonter, 陳世能, Sean Chen, et al.
 * [Google Material Design 中文协同翻译](https://github.com/1sters/material_design_zh) - 1sters 极客实验室, 四勾 4J, IceskYsl, et al.
-* [Material Design 中文版](http://wiki.jikexueyuan.com/project/material-design/)
 * [Point-of-Android](https://github.com/FX-Max/Point-of-Android)
 
 
@@ -324,6 +321,8 @@
 * [新概念 C 语言教程](https://github.com/limingth/NCCL)
 * [Beej's Guide to Network Programming 簡體中文版](https://beej-zhtw-gitbook.netdpi.net) - Brian "Beej Jorgensen" Hall, 廖亚伦译
 * [C 语言常见问题集](http://c-faq-chn.sourceforge.net/ccfaq/ccfaq.html)
+* [C 语言教程](https://wangdoc.com/clang/)
+* [C 语言入门教程](https://www.dotcpp.com/course/c/)
 * [Linux C 编程一站式学习](https://web.archive.org/web/20210514225440/http://docs.linuxtone.org/ebooks/C&CPP/c/) *(:card_file_box: archived)*
 
 
@@ -337,6 +336,7 @@
 * [100个gcc小技巧](https://github.com/hellogcc/100-gcc-tips/blob/master/src/index.md)
 * [100个gdb小技巧](https://github.com/hellogcc/100-gdb-tips/blob/master/src/index.md)
 * [简单易懂的C魔法](https://web.archive.org/web/20210413213859/http://www.nowamagic.net/librarys/books/contents/c) *(:card_file_box: archived)*
+* [現代 C++ 101](https://hackmd.io/@lumynou5/CppTutorial-zh-tw) - Lumynous (:construction: *in process*)
 * [像计算机科学家一样思考（C++版)](http://www.ituring.com.cn/book/1203) (《How To Think Like a Computer Scientist: C++ Version》中文版)
 * [C 语言编程透视](https://tinylab.gitbooks.io/cbook/content/)
 * [C/C++ Primer](https://github.com/andycai/cprimer) - andycai
@@ -402,7 +402,7 @@
 * [Go 语言设计与实现](https://draveness.me/golang) - draveness
 * [Go 语言实战笔记](https://github.com/rujews/go-in-action-notes)
 * [Go 指南](https://tour.go-zh.org/list) (《A Tour of Go》中文版)
-* [Go Web 编程](https://github.com/astaxie/build-web-application-with-golang)
+* [Go Web 编程](https://astaxie.gitbooks.io/build-web-application-with-golang/content/zh/) - astaxie
 * [Go实战开发](https://github.com/astaxie/go-best-practice)
 * [Go语言博客实践](https://github.com/achun/Go-Blog-In-Action)
 * [Java程序员的Golang入门指南](http://blog.csdn.net/dc_726/article/details/46565241)
@@ -442,7 +442,6 @@
 * [网易斯坦福大学公开课：iOS 7应用开发字幕文件](https://github.com/jkyin/Subtitle)
 * [Apple Watch开发初探](http://nilsun.github.io/apple-watch/)
 * [Google Objective-C Style Guide 中文版](http://zh-google-styleguide.readthedocs.org/en/latest/google-objc-styleguide/)
-* [iOS7人机界面指南](http://isux.tencent.com/ios-human-interface-guidelines-ui-design-basics-ios7.html)
 * [iOS开发60分钟入门](https://github.com/qinjx/30min_guides/blob/master/ios.md)
 * [iPhone 6 屏幕揭秘](http://wileam.com/iphone-6-screen-cn/)
 
@@ -458,6 +457,7 @@
 * [H2 Database 教程](https://github.com/waylau/h2-database-doc)
 * [Java 编程思想](https://java.quanke.name) - quanke
 * [Java 编码规范](https://github.com/waylau/java-code-conventions)
+* [Java 教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1252599548343744)
 * [Java Servlet 3.1 规范](https://github.com/waylau/servlet-3.1-specification)
 * [Jersey 2.x 用户指南](https://github.com/waylau/Jersey-2.x-User-Guide)
 * [JSSE 参考指南](https://github.com/waylau/jsse-reference-guide)
@@ -467,6 +467,7 @@
 * [Nutz-book Nutz烹调向导](http://nutzbook.wendal.net)
 * [Nutz文档](https://nutzam.com/core/nutz_preface.html)
 * [REST 实战](https://github.com/waylau/rest-in-action)
+* [Spring 2.0核心技术与最佳实践](https://michaelliao.github.io/download/pdf/Spring%202.0%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E4%B8%8E%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5.pdf) (PDF)
 * [Spring Boot参考指南](https://github.com/qibaoguang/Spring-Boot-Reference-Guide) (:construction: *翻译中*)
 * [Spring Framework 4.x参考文档](https://github.com/waylau/spring-framework-4-reference)
 
@@ -475,7 +476,6 @@
 
 * [命名函数表达式探秘](http://justjavac.com/named-function-expressions-demystified.html) - kangax、为之漫笔(翻译) (原始地址无法打开，所以此处地址为justjavac博客上的备份)
 * [你不知道的JavaScript](https://github.com/getify/You-Dont-Know-JS/tree/1ed-zh-CN)
-* [深入理解JavaScript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
 * [现代 JavaScript 教程](https://zh.javascript.info) - Ilya Kantor
 * [学用 JavaScript 设计模式](http://www.oschina.net/translate/learning-javascript-design-patterns) - 开源中国
 * [Airbnb JavaScript 规范](https://github.com/adamlu/javascript-style-guide)
@@ -483,12 +483,10 @@
 * [Google JavaScript 代码风格指南](https://web.archive.org/web/20200415002735/bq69.com/blog/articles/script/868/google-javascript-style-guide.html) *(:card_file_box: archived)*
 * [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com)
 * [javascript 的 12 个怪癖](https://github.com/justjavac/12-javascript-quirks)
-* [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
+* [JavaScript 教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1022910821149312)
 * [《JavaScript 模式》](https://github.com/jayli/javascript-patterns) (《JavaScript patterns》译本)
 * [JavaScript 原理](https://web.archive.org/web/20170112164945/http://typeof.net/s/jsmech/)
 * [JavaScript Promise迷你书](http://liubin.github.io/promises-book/)
-* [JavaScript编程指南](http://pij.robinqu.me) ([源码](https://github.com/RobinQu/Programing-In-Javascript))
-* [JavaScript核心概念及实践](http://icodeit.org/jsccp/) (PDF)
 
 
 #### AngularJS
@@ -512,7 +510,6 @@
 
 * [楚狂人的D3教程](http://www.cnblogs.com/winleisure/tag/D3.js/)
 * [官方API文档](https://github.com/mbostock/d3/wiki/API--%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C)
-* [张天旭的D3教程](http://blog.csdn.net/zhang__tianxu/article/category/1623437)
 * [Learning D3.JS](http://d3.decembercafe.org) - 十二月咖啡馆
 
 
@@ -554,7 +551,6 @@
 
 * [Learn React & Webpack by building the Hacker News front page](https://github.com/theJian/build-a-hn-front-page)
 * [React-Bits 中文文档](https://github.com/hateonion/react-bits-CN)
-* [React Native 中文文档(含最新Android内容)](http://wiki.jikexueyuan.com/project/react-native/)
 * [React webpack-cookbook](https://github.com/fakefish/react-webpack-cookbook)
 * [React.js 入门教程](http://fraserxu.me/intro-to-react/)
 * [React.js 中文文档](https://discountry.github.io/react/)
@@ -562,7 +558,6 @@
 
 #### Vue.js
 
-* [Vue.js中文文档](https://cn.vuejs.org/v2/guide/)
 * [Vue3.0学习教程与实战案例](https://vue3.chengpeiquan.com) - chengpeiquan
 
 
@@ -575,7 +570,6 @@
 
 * [大家來學 LaTeX](https://github.com/49951331/graduate-project-102pj/blob/master/docs/latex123.pdf) (PDF)
 * [一份不太简短的 LaTeX2ε 介绍](http://ctan.org/pkg/lshort-zh-cn)
-* [LaTeX 笔记](http://www.dralpha.com/zh/tech/tech.htm)
 
 
 ### Lisp
@@ -621,7 +615,6 @@
 
 ### PHP
 
-* [深入理解 PHP 内核](http://www.php-internals.com/book/)
 * [CodeIgniter 使用手冊](https://web.archive.org/web/20210624143822/https://codeigniter.org.tw/userguide3/) *(:card_file_box: archived)*
 * [Composer中文文档](http://docs.phpcomposer.com)
 * [Phalcon7中文文档](https://web.archive.org/web/20220330065727/myleftstudio.com/) *(:card_file_box: archived)*
@@ -637,12 +630,19 @@
 * [Laravel 6 中文文档](https://learnku.com/docs/laravel/6.x)
 * [Laravel 7 中文文档](https://learnku.com/docs/laravel/7.x)
 * [Laravel 8 中文文档](https://learnku.com/docs/laravel/8.x)
+* [Laravel 9 中文文档](https://learnku.com/docs/laravel/9.x)
+* [Laravel 入门到精通教程](https://laravelacademy.org/books/laravel-tutorial)
 
 
 #### Symfony
 
 * [Symfony 2 实例教程](https://wusuopu.gitbooks.io/symfony2_tutorial/content)
 * [Symfony 5 快速开发](https://web.archive.org/web/20210812222957/symfony.com/doc/current/the-fast-track/zh_CN/index.html) *(:card_file_box: archived)*
+
+
+#### Yii
+
+* [Yii 2.0 权威指南](https://www.yiiframework.com/doc/download/yii-guide-2.0-zh-cn.pdf) - Yii Software (PDF)
 
 
 ### PostgreSQL
@@ -666,7 +666,7 @@
 * [Python 中文学习大本营](http://www.pythondoc.com)
 * [Python 最佳实践指南](https://pythonguidecn.readthedocs.io/zh/latest/)
 * [Python Cookbook第三版](http://python3-cookbook.readthedocs.io/zh_CN/latest/) - David Beazley、Brian K.Jones、熊能(翻译)
-* [Python教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
+* [Python教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1016959663602400)
 * [Python进阶](https://interpy.eastlakeside.com) - eastlakeside
 * [Python之旅](https://web.archive.org/web/20191217091745/http://funhacks.net/explore-python/) - Ethan *(:card_file_box: archived)*
 * [Tornado 6.1 中文文档](http://www.osgeo.cn/tornado/) (Online) *(网络上其他的都是较旧版本的)*
@@ -708,6 +708,8 @@
 
 * [通过例子学习 Rust](https://github.com/rustcc/rust-by-example/)
 * [Rust 官方教程](https://github.com/KaiserY/rust-book-chinese)
+* [Rust 宏小册](https://zjp-cn.github.io/tlborm/)
+* [Rust 语言圣经](https://course.rs)
 * [Rust 语言学习笔记](https://github.com/photino/rust-notes)
 * [RustPrimer](https://github.com/rustcc/RustPrimer)
 * [Tour of Rust](https://tourofrust.com/00_zh-cn.html)
@@ -716,7 +718,6 @@
 ### Scala
 
 * [Effective Scala](http://twitter.github.io/effectivescala/index-cn.html)
-* [Scala 初学者指南](https://www.gitbook.com/book/windor/beginners-guide-to-scala/details) (《The Neophyte's Guide to Scala》中文版)
 * [Scala 课堂](http://twitter.github.io/scala_school/zh_cn/index.html) (Twitter的Scala中文教程)
 
 
